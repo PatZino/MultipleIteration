@@ -5,4 +5,6 @@ Console.WriteLine("Hello, World!");
 
 //BruteForce.Execute();
 
-OptimizedOne.Execute();
+//OptimizedOne.Execute();
+
+OptimizedTwo.Execute();
